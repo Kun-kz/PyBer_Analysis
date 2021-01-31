@@ -42,12 +42,16 @@ Figure 1 to 4 were figures we created based on the rideshare data. They all conv
 -	Total fares: Rural < Suburban < Urban
 -	Total rides: Rural < Suburban < Urban
 -	Total drivers: Rural < Suburban < Urban
+
 Figure 1 The bubble chart for the ride-sharing data
 ![](Analysis/Fig1.png)
+
 Figure 2 The pie chart for the percentage of fares by city type
 ![](Analysis/Fig5.png)
+
 Figure 3 The pie chart for the percentage of rides by city type
 ![](Analysis/Fig6.png)
+
 Figure 4 The pie chart for the percentage of drivers by city type
 ![](Analysis/Fig7.png)
 
